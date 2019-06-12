@@ -13,9 +13,14 @@
 4. 确定前k个点所在类别的出现频率；
 5. 返回前k个点所出现频率最高的类别作为当前点的预测分类。 
 #### *1.1.2 Logistics Regression(逻辑回归算法)*  
-     Logistics Regression算法的原理：本质上上一种二分类算法，它是利用Sigmoid函数将输出值限制在[0,1]的特性，Logistics Regression进行分类的主要思想是根据现有的数据集对分类边界建立回归公式，然后进行判断，本质上是基于[0,1]的概率进行分类。
+     逻辑回归算法的原理：本质上上一种二分类算法，它是利用Sigmoid函数将输出值限制在[0,1]的特性，Logistics Regression进行分类的主要思想是根据现有的数据集对分类边界建立回归公式，然后进行判断，本质上是基于[0,1]的概率进行分类。
 *Sigmoid_Function*
-![image](https://github.com/huangzy97/lib/blob/master/sigmoid.jpg)
+![image](https://github.com/huangzy97/lib/blob/master/sigmoid.jpg)  
+#### *1.1.3 SVM(支持向量机)*  
+##### *1.1.3.1 线性SVM(支持向量机)*  
+
+##### *1.1.3.2 非线性SVM(支持向量机)*  
+
 ### **1.2 回归**    
 ## part 2  *无监督学习*  
 
