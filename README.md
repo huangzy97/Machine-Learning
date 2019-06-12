@@ -18,9 +18,9 @@
 ![image](https://github.com/huangzy97/lib/blob/master/sigmoid.jpg)  
 #### *1.1.3 SVM(支持向量机)*  
 ##### *1.1.3.1 线性SVM(支持向量机)*  
-
+![image](https://github.com/huangzy97/lib/blob/master/liner_SVM.png)  
 ##### *1.1.3.2 非线性SVM(支持向量机)*  
-
+![image](https://github.com/huangzy97/lib/blob/master/fei_SVM.png)  
 ### **1.2 回归**    
 ## part 2  *无监督学习*  
 
