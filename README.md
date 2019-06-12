@@ -1,7 +1,7 @@
 # Machine-Learning
 ***机器学习***
 ## part 1  *监督学习*   
-### **1.1 分类**  
+### **1.1 分类和回归**  
 [Kaggle泰坦尼克比赛](https://github.com/huangzy97/Titanic/edit/master/Titanic.py)   
 [![image](https://github.com/huangzy97/lib/blob/master/timg.png)](https://www.kaggle.com/c/titanic)    
 #### *1.1.1 KNN(K近邻算法)*  
@@ -20,7 +20,6 @@
 ##### *1.1.3.1 线性SVM(支持向量机)*  
 ![image](https://github.com/huangzy97/lib/blob/master/liner_SVM.png)  
 ##### *1.1.3.2 非线性SVM(支持向量机)*  
-![image](https://github.com/huangzy97/lib/blob/master/fei_SVM.png)  
-### **1.2 回归**    
+![image](https://github.com/huangzy97/lib/blob/master/fei_SVM.png)     
 ## part 2  *无监督学习*  
 
