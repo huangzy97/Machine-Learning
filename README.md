@@ -21,12 +21,14 @@
 ![image](https://github.com/huangzy97/lib/blob/master/liner_SVM.png)  
 ##### *1.1.3.2 非线性SVM(支持向量机)*  
 ![image](https://github.com/huangzy97/lib/blob/master/fei_SVM.png)    
-#### *1.1.4 decision tree(决策树)*  
+#### *1.1.4 Decision Tree(决策树)*  
 ##### *1.1.4.1 ID3算法*  
    ID3算法的原理：核心是在决策树各个结点上对应**信息增益**准则选择特征，递归地构建决策树。  
 ##### *1.1.4.2 C4.5算法*     
    C4.5算法的原理： C4.5是ID3的一个改进算法，最大的区别是C4.5算法用**信息增益比**来选择特征。  
 ##### *1.1.4.3 CART算法*  
    CART算法的原理：CART算法全称是Classification And Regression Tree，采用的是**Gini指数**（纯净度）来选择特征。  
+#### *1.1.5 Random Forest(随机森林)*  
+    随机森林算法的原理：随机森林算法是基于决策树算法的集成算法，决策树算法是通过训练集生成一个模型，随机森林是从训练集中随机选取样本(可以抽到相同的样本)，然后生成很多课决策树(构成森林的说法)，然后通过投票的方式进行分类。
 ## part 2  *无监督学习*  
 
