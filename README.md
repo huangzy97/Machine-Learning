@@ -20,6 +20,9 @@
 ##### *1.1.3.1 线性SVM(支持向量机)*  
 ![image](https://github.com/huangzy97/lib/blob/master/liner_SVM.png)  
 ##### *1.1.3.2 非线性SVM(支持向量机)*  
-![image](https://github.com/huangzy97/lib/blob/master/fei_SVM.png)     
+![image](https://github.com/huangzy97/lib/blob/master/fei_SVM.png)    
+#### *1.1.4 decision tree(决策树)*  
+##### *1.1.4.1 ID3算法*  
+    ID3算法的原理：核心是在决策树各个结点上对应**信息增益**准则选择特征，递归地构建决策树。  
 ## part 2  *无监督学习*  
 
